@@ -1,6 +1,5 @@
-### Hello there 👋 it's Abhishek.
-
-#### Frontend Web-developer
+<h1 align='center'>Hello there 🙋‍♂️ it's Abhishek Prajapati.</h1>
+<h2 align='center'>Frontend Web-developer</h2>
 
 <!--
 **abhi0661236/abhi0661236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
