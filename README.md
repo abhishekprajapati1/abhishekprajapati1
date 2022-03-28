@@ -6,7 +6,7 @@
 <!--
 **abhi0661236/abhi0661236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on a project named <h3><a href='https//abhi0661236.github.io/flipkart-clone/'>Flipkart-clone</h3>
 - 🌱 I’m currently learning <h3>MERN Stack Development</h3> at my own.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
