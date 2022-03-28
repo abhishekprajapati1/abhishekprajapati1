@@ -8,8 +8,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a project named <h3><a href='https//abhi0661236.github.io/flipkart-clone/'>Flipkart-clone</h3>
-- 🌱 I’m currently learning <h3>MERN Stack Development</h3> at my own.
+- 🔭 I’m currently working on a project named <span><a href='https//abhi0661236.github.io/flipkart-clone/'>Flipkart-clone </a> </span>
+- 🌱 I’m currently learning <strong>MERN Stack Development</strong> at my own.
 - 💬 Ask me about <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"  alt="abhi0661236" /></a>
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
