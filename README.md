@@ -1,6 +1,7 @@
 <h1 align='center'>Hello there 🙋‍♂️ it's Abhishek Prajapati.</h1>
 <h2 align='center'>Frontend Web-developer</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi0661236&label=Profile%20views&color=0e75b6&style=flat" alt="abhi0661236" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhyadav01" alt="saurabhyadav01" /></a> </p>
 
 <!--
 **abhi0661236/abhi0661236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
