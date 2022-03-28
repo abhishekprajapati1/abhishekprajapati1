@@ -1,6 +1,6 @@
 <h1 align='center'>Hello there 🙋‍♂️ it's Abhishek Prajapati.</h1>
 <h2 align='center'>Frontend Web-developer</h2>
-<p align="left"> <img src="https://github.com/ghpvc/?username=abhi0661236&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhyadav01" /> </p>
+<p align="left"> <img src="https://github.com/?username=abhi0661236&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhyadav01" /> </p>
 
 <!--
 **abhi0661236/abhi0661236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
