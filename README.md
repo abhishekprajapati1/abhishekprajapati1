@@ -5,13 +5,13 @@
 
 <!--
 **abhi0661236/abhi0661236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- 💬 Ask me about <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"  alt="abhi0661236" /></a>
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on a project named <span><a href='https//abhi0661236.github.io/flipkart-clone/'>Flipkart-clone </a> </span>
 - 🌱 I’m currently learning <strong>MERN Stack Development</strong> at my own.
-- 💬 Ask me about <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"  alt="abhi0661236" /></a>
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me through <a href='mailto:ap0661236@gmail.com'>E-mail</a>.
+
 
