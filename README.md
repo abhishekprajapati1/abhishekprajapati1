@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on a project named <span><a href='https//abhi0661236.github.io/flipkart-clone/'>Flipkart-clone </a> </span>
 - 🌱 I’m currently learning <strong>MERN Stack Development</strong> at my own.
-- 📫 How to reach me through <a href='mailto:ap0661236@gmail.com'>E-mail</a>.
+- 📫 Reach me through <a href='mailto:ap0661236@gmail.com'>E-mail</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
