@@ -34,4 +34,3 @@ Here are some ideas to get you started:-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-https://www.bezkoder.com/redux-toolkit-example-crud/
