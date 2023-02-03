@@ -1,4 +1,5 @@
-<p align='center'><img src="https://media-exp1.licdn.com/dms/image/C4D16AQH54HzvPThMtg/profile-displaybackgroundimage-shrink_200_800/0/1656235005396?e=1667433600&v=beta&t=287jMQjHGNTiCb3IYC4SfkRL0PxGQEJDCSzO1eO9T30" width='100%' height='auto' /></p>
+<p align='center'><img src="https://media.licdn.com/dms/image/C4D16AQH54HzvPThMtg/profile-displaybackgroundimage-shrink_200_800/0/1656235005396?e=2147483647&v=beta&t=24vagXDB-oVwZCH_nRgLIDj0qdKuP_o6aI_0yVAWm7w" width='100%' height='auto' /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi0661236&label=Profile%20views&color=0e75b6&style=flat" alt="abhi0661236" /> </p>
 
 <!--
