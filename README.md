@@ -1,9 +1,9 @@
 <p align='center'><img src="https://github.com/abhi0661236/abhi0661236/blob/main/banner.png" width='100%' height='auto' /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi0661236&label=Profile%20views&color=0e75b6&style=flat" alt="abhi0661236" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekprajapati1&label=Profile%20views&color=0e75b6&style=flat" alt="abhi0661236" /> </p>
 
 <!--
-**abhi0661236/abhi0661236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abhishekprajapati1/abhishekprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 💬 Ask me about <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"  alt="abhi0661236" /></a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -21,16 +21,16 @@ Here are some ideas to get you started:-->
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhi0661236&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=abhishekprajapati1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ## 🌐 Connect With Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100017100910070) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/artistt__abhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhi-prajapati) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ap0661236) 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhi0661236&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhi0661236&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi0661236&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=abhishekprajapati1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekprajapati1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekprajapati1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
