@@ -1,6 +1,6 @@
 <p align='center'><img src="https://github.com/abhi0661236/abhi0661236/blob/main/banner.png" width='100%' height='auto' /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekprajapati1&label=Profile%20views&color=0e75b6&style=flat" alt="abhi0661236" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi0661236&label=Profile%20views&color=0e75b6&style=flat" alt="abhi0661236" /> </p>
 
 <!--
 **abhishekprajapati1/abhishekprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
