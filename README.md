@@ -9,8 +9,8 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a project named <span><a href='https://aspanel.onrender.com/'>aspanel</a> </span>
-- 🌱 I’m currently learning <strong>MERN Stack Development</strong> at my own.
+- 🔭 I’m currently working on a project named <span><a href='https://github.com/indistack/calendar-canvas'>calendar-canvas</a> </span>
+- 🌱 Crafting experiences in <strong>MERN</strong> at my own.
 - 📫 Reach me through <a href='mailto:ap0661236@gmail.com'>E-mail</a>.
 
 
