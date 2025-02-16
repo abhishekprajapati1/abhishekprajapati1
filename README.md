@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a project named <span><a href='https://github.com/indistack/calendar-canvas'>calendar-canvas</a> </span>
+- 🔭 I’m currently working on a project named <span><a href='https://arpansource.github.io/calendar-canvas/'>calendar-canvas</a> </span>
 - 🌱 Crafting experiences in <strong>MERN Stack</strong>.
 - 📫 Reach me through <a href='mailto:ap0661236@gmail.com'>E-mail</a>.
 
